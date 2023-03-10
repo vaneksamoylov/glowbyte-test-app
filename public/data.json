@@ -1,0 +1,80 @@
+{"result": [
+    {
+        "tag_attributes": [
+            {
+                "attribute_id": 2,
+                "attribute_value": "Мельница"
+            },
+            {
+                "attribute_id": 3,
+                "attribute_value": "Рекомендация"
+            },
+            {
+                "attribute_id": 1,
+                "attribute_value": "Градусы"
+            }
+        ],
+        "tag_id": "1",
+        "tag_name": "Температура"
+    },
+    {
+        "tag_attributes": [
+            {
+                "attribute_id": 2,
+                "attribute_value": "Сепаратор"
+            },
+            {
+                "attribute_id": 5,
+                "attribute_value": "Циркуляционный фактор"
+            }
+        ],
+        "tag_id": "2",
+        "tag_name": "Напряжение"
+    },
+    {
+        "tag_attributes": [
+            {
+                "attribute_id": 5,
+                "attribute_value": "Готового продукта"
+            },
+            {
+                "attribute_id": 2,
+                "attribute_value": "Сепаратор"
+            },
+            {
+                "attribute_id": 1,
+                "attribute_value": "Продукт"
+            }
+        ],
+        "tag_id": "3",
+        "tag_name": "Сопротивление цепи"
+    },
+    {
+        "tag_attributes": [
+            {
+                "attribute_id": 2,
+                "attribute_value": "Сепаратор"
+            }
+        ],
+        "tag_id": "5",
+        "tag_name": "Автоматика"
+    },
+    {
+        "tag_attributes": [
+            {
+                "attribute_id": 5,
+                "attribute_value": "2 камера"
+            },
+            {
+                "attribute_id": 4,
+                "attribute_value": "л/ч"
+            },
+            {
+                "attribute_id": 3,
+                "attribute_value": "2 камера"
+            }
+        ],
+        "tag_id": "4",
+        "tag_name": "Сезон"
+    }
+]}
